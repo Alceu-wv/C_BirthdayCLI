@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace Data;
-public class Person:IComparable<Person>
+public class Person : IComparable<Person>
     {
         private string? _firstName;
         private string? _lastName;

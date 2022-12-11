@@ -10,10 +10,10 @@ namespace BirthdayCLI;
 
 public class AddPerson
 {
-    PersonRepository personRepository;
+    PersonRepositoryInterface personRepository;
     InputString inputString = new InputString();
 
-    public AddPerson(PersonRepository personRepository)
+    public AddPerson(PersonRepositoryInterface personRepository)
     {
         this.personRepository = personRepository;
     }

@@ -6,10 +6,10 @@ namespace BirthdayCLI
 {
     internal class SearchPerson
     {
-        PersonRepository personRepository;
+        PersonRepositoryInterface personRepository;
         InputString inputString = new InputString();
 
-        public SearchPerson(PersonRepository personRepository)
+        public SearchPerson(PersonRepositoryInterface personRepository)
         {
             this.personRepository = personRepository;
         }

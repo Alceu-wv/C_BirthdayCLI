@@ -1,9 +1,11 @@
-﻿namespace Data;
+﻿using Interfaces;
+
+namespace Data;
 public class PersonRepository : PersonRepositoryInterface
 {
-    private PersonDAO personDAO;
+    private PersonDAOInterface personDAO;
 
-    public PersonRepository(PersonDAO personDAO) {
+    public PersonRepository(PersonDAOInterface personDAO) {
         this.personDAO = personDAO;
         AdicionarDummyPersons(); 
     }

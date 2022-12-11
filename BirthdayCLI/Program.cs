@@ -6,23 +6,6 @@ public class Programa
 {
 
     static void Main(string[] args)
-    //{
-    //    Console.WriteLine("Selecione uma das opções abaixo:");
-    //    DummyPersons dm = new DummyPersons();
-    //    dm.InsertDummyPersons();
-
-    //    PersonDAO personDAO = new PersonDAO();
-    //    var ps = personDAO.readAll();
-    //    foreach (Person person in ps) 
-    //    {
-    //        Console.WriteLine(person.asString());
-    //    }
-
-
-
-
-
-    //}
     {
 
         PersonDAO personDAO = new();
@@ -32,7 +15,7 @@ public class Programa
         InputNumber inputNumber = new();
         int userOperationChoice = 0;
 
-            while (userOperationChoice != 4)
+            while (userOperationChoice != 5)
             {
                 Console.WriteLine("Selecione uma das opções abaixo:");
                 Console.WriteLine("1 - Pesquisar pessoas");

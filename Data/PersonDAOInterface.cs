@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Interfaces
 {
-    internal interface PersonDAOInterface
+    public interface PersonDAOInterface
     {
         void write(Person person);
 
