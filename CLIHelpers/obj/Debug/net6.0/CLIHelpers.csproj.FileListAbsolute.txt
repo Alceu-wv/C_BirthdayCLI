@@ -1,0 +1,12 @@
+C:\code\dotnet\BirthdayCLI\CLIHelpers\bin\Debug\net6.0\CLIHelpers.deps.json
+C:\code\dotnet\BirthdayCLI\CLIHelpers\bin\Debug\net6.0\CLIHelpers.dll
+C:\code\dotnet\BirthdayCLI\CLIHelpers\bin\Debug\net6.0\CLIHelpers.pdb
+C:\code\dotnet\BirthdayCLI\CLIHelpers\obj\Debug\net6.0\CLIHelpers.csproj.AssemblyReference.cache
+C:\code\dotnet\BirthdayCLI\CLIHelpers\obj\Debug\net6.0\CLIHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\dotnet\BirthdayCLI\CLIHelpers\obj\Debug\net6.0\CLIHelpers.AssemblyInfoInputs.cache
+C:\code\dotnet\BirthdayCLI\CLIHelpers\obj\Debug\net6.0\CLIHelpers.AssemblyInfo.cs
+C:\code\dotnet\BirthdayCLI\CLIHelpers\obj\Debug\net6.0\CLIHelpers.csproj.CoreCompileInputs.cache
+C:\code\dotnet\BirthdayCLI\CLIHelpers\obj\Debug\net6.0\CLIHelpers.dll
+C:\code\dotnet\BirthdayCLI\CLIHelpers\obj\Debug\net6.0\refint\CLIHelpers.dll
+C:\code\dotnet\BirthdayCLI\CLIHelpers\obj\Debug\net6.0\CLIHelpers.pdb
+C:\code\dotnet\BirthdayCLI\CLIHelpers\obj\Debug\net6.0\ref\CLIHelpers.dll
